@@ -1,26 +1,16 @@
-﻿# [hacker](https://github.com/lite-life/hacker) 
+﻿# [geek](https://github.com/lite-life/geek) 
 
 [![sites](litelife/litelife.png)](http://www.litelife.cc)
 
-#### [更多litelife](https://github.com/lite-life/litelife)可访问 www.litelife.cc
+#### [litelife](https://github.com/lite-life/litelife) 主页 www.litelife.cc
 
-## [简介](https://github.com/lite-life/hacker/wiki) 
+## [简介](https://github.com/lite-life/geek/wiki) 
 
-强大且可靠的计算设备和通行设备，各种延伸和辅助工具
+geek生活，需要工具和平台才能完成更有价值的东西，在信息化和程序化的时代，我们可以通过编程或则数据来驱动，而不是传统的通过大脑复制，双手执行
 
-## [组成](litelife/) 
+所有需要给每个创造者一个强大的平台，减少低价值的动手和无聊的分析，机械的自动化是基础，智能化的关键，这两个条件已初步满足，剩下的就是如何搬到家里通上电。
 
-#### [计算机](litelife/) 
 
-水冷式集成计算塔，包括强大的CPU和GPU，各种软件测试设备和监控窗口
-
-#### [网络](litelife/) 
-
-各种增强的网络覆盖，包括广域覆盖和低时延设计
-
-#### [外设](litelife/) 
-
-包括各种输入输出装置和安全管理设备
 
 ---
 
