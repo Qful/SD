@@ -1,10 +1,24 @@
-﻿# [house](https://github.com/lite-life/house) 
-
-[![sites](litelife/litelife.png)](http://www.litelife.cc)
+﻿# [PCIe HUB](https://github.com/qful/PCIeHUB) 
+[![sites](qful/qful.png)](http://www.qful.net)
 ####  qitas@qitas.cn
-#### [litelife](https://github.com/lite-life/litelife) <--主页--> www.litelife.cc
+## [简介](https://github.com/qful/PCIeHUB) 
 
-## [简介](https://github.com/lite-life/house/wiki) 
+通过PCIE扩展的HUB设备，具备高速和专用的能力，扩展传统设备的能力
 
-家作为每个人生活的核心所在，需要我们花费精力时间，借助科技的力量，更好的发现生活的乐趣
+### [工程目录](https://github.com/qful)
 
+- [文档](docs/)
+- [资源](src/)
+- [工程](project/)
+
+### [单元组件](https://github.com/qful)
+
+- [type-c组件](https://github.com/qful/entypec)
+
+
+### [Q资源依赖](https://github.com/qful)
+
+- [Q软件](https://github.com/OS-Q)
+- [Q硬件](https://github.com/sochub)
+- [Q智慧](https://github.com/tfzoo)
+- [Q品质](https://github.com/qitas)
