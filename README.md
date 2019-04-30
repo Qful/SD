@@ -2,11 +2,13 @@
 [![sites](Qful/qitas.png)](http://www.Qful.net)
 ## [Q简介](https://github.com/Qful/intHUB) 
 
+内置通信扩展设备，具有大量底层低速通信接口便于连接各种控制设备。
 
+通过该设备可以连接大量边缘节点设备，连接起庞大的边缘设备和标准电脑的算力。
 
-- [文档](docs/)
-- [资源](src/)
-- [VL805](VL805/)
+- [设计文档](docs/)
+- [处理芯片](https://github.com/sochub/CH579)
+- [转换芯片](VL805/)
 
 ### [Q资源](https://github.com/Qful/intHUB)
 
