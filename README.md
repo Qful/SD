@@ -7,8 +7,17 @@
 通过该设备可以连接大量边缘节点设备，连接起庞大的边缘设备和标准电脑的算力。
 
 - [设计文档](docs/)
-- [处理芯片](https://github.com/sochub/CH579)
-- [转换芯片](VL805/)
+
+### [处理芯片](https://github.com/Qful/intHUB)
+
+- [USB无线芯片](https://github.com/sochub/CH57)
+- [USB存储芯片](https://github.com/sochub/CH56)
+- [USB功能芯片](https://github.com/sochub/CH55)
+
+### [PCIe转换](https://github.com/Qful/intHUB)
+
+- [USB转换芯片](VL805/)
+- [IO转换芯片](CH36x/)
 
 ### [Q资源](https://github.com/Qful/intHUB)
 
