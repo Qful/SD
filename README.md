@@ -23,7 +23,7 @@ intHUB是实现PC资源调度的关键环节，涉及的功能和资源也是最
 ### [工程目录](https://github.com/Qful/intHUB) 
 
 * [设计文档](docs/)
-* [处理单元](MCU/)
+* [MCU单元](MCU/)
 * [PCIe转换](PCIe/)
 
 ### [Q资源](https://github.com/Qful/intHUB)
